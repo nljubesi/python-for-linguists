@@ -1,0 +1,4 @@
+neki proizvoljan tekst
+bez dijakritickih znakova
+treba izracunati
+duljinu
