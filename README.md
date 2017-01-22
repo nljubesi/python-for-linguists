@@ -1,5 +1,21 @@
-# iPython notebook on programming in Python for linguists
+# Jupyter notebook o programiranju u *Pythonu* za lingviste
 
-Short instructions on how to install iPython on Windows and Mac. Whoever has linux, knows how to do it. :-)
+## Windows OS
 
-In VERY short: install https://www.continuum.io/downloads
+Kratke upute kako instalirati Jupyter notebook na Windows operativni sustav.
+
+1. Preuzmite datoteku s poveznice: https://www.continuum.io/downloads. Pripazite da preuzmete datoteku s *Python* verzijom 2.7!
+2. Otvorite .exe datoteku te pratite upute.
+
+
+## Mac OS
+
+Kratke upute kako instalirati Jupyter notebook na Mac operativni sustav.
+
+Grafički instaler
+1. Preuzmite datoteku s poveznice: https://www.continuum.io/downloads. Pripazite da preuzmete grafički instaler s *Python* verzijom 2.7!
+2. Otvorite .pkg datoteku te pratite upute.
+
+Terminal
+1. Preuzmite datoteku s poveznice: https://www.continuum.io/downloads. Pripazite da preuzmete instaler za terminal s *Python* verzijom 2.7!
+2. U terminalu upišite "bash Anaconda2-4.2.0-MacOSX-x86_64.sh ".
